@@ -1,2 +1,2 @@
-# AudiMFCScript
-Python CLI to check availability of MFC pool cars
+# MFCScript
+Python CLI to check availability of Audi MFC pool cars
